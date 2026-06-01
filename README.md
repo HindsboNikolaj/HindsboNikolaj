@@ -1,13 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0F172A&height=180&section=header&text=Nikolaj%20Hindsbo&fontSize=42&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=AI+Engineer+%40+Armada;Multimodal+Agents+at+the+Edge;Sim-to-Real+Camera+Control+(PTZ);Evals+for+Vision-Language+Pipelines&center=true&width=620&height=45&color=0EA5E9" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <b>AI Engineer at Armada AI · Seattle</b>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF006E,50:8338EC,100:3A86FF&height=220&section=header&text=Nikolaj%20Hindsbo&fontSize=66&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20%40%20Armada%20AI%20%C2%B7%20Seattle&descSize=20&descAlignY=70" />
 </p>
 
 <p align="center">
@@ -31,7 +23,7 @@
 
 I build language-driven agents that run on real hardware at the edge, and I write the evals that show where they break.
 
-Engineering Mechanics at UW–Madison (BS 2023), then AI Engineering at Carnegie Mellon (MS 2024).
+Engineering Mechanics at UW–Madison (BS 2023). AI Engineering at Carnegie Mellon (MS 2024).
 
 ---
 
