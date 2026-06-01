@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  <b>AI Engineer at Armada AI · Seattle</b><br/>
-  Edge-deployed multimodal agents. Evals that surface where vision and language fail.
+  <b>AI Engineer at Armada AI · Seattle</b>
 </p>
 
 <p align="center">
@@ -30,11 +29,9 @@
 
 ## About
 
-AI Engineer at Armada in Seattle. Build language-driven agents that run on real hardware at the edge, then write the evals that show where they break.
+I build language-driven agents that run on real hardware at the edge, and I write the evals that show where they break.
 
-Engineering Mechanics at UW–Madison (BS, 2023), then AI Engineering at Carnegie Mellon (MS, 2024).
-
-> When you chain a language model and a vision model together, how do you know which one failed?
+Engineering Mechanics at UW–Madison (BS 2023), then AI Engineering at Carnegie Mellon (MS 2024).
 
 ---
 
@@ -88,7 +85,7 @@ Selected coursework from CMU MSAIE. Vision/language modeling, LLM evaluation, on
 
 ## Now
 
-PTZ camera agents (see SCOPE). Time-series forecasting at scale. Memory layer prototypes for long-running agent loops.
+I'm shipping PTZ camera agents (SCOPE was the first public output) and prototyping memory layers for long-running agent loops.
 
 ---
 
