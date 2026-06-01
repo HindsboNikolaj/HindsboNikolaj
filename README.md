@@ -6,7 +6,7 @@
   <a href="https://nhindsbo.com/">
     <img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
   </a>
-  <a href="https://www.linkedin.com/in/nikolaj-hindsbo/">
+  <a href="https://www.linkedin.com/in/nikolaj-hindsbo">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://scholar.google.com/citations?user=UePF-ggAAAAJ&hl=en">
