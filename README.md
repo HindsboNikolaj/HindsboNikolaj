@@ -27,19 +27,11 @@ Engineering Mechanics at UW–Madison (BS 2023). AI Engineering at Carnegie Mell
 
 ---
 
-## Featured Work
+## Recent
 
-### [SCOPE](https://github.com/HindsboNikolaj/SCOPE) · HRI '26
-Sim-to-real benchmark for language-driven PTZ camera agents. Blender environment, 536-task benchmark, 19 planner-perception pairings. Pairs Qwen3 small language models with Moondream and Qwen-VL backbones to characterize where vision and language fail under real-time edge constraints. Open source.
+**[SCOPE](https://github.com/HindsboNikolaj/SCOPE)** — Sim-to-real benchmark for language-driven PTZ camera agents. Published at HRI '26. [DOI](https://doi.org/10.1145/3757279.3785641)
 
-### [Make-An-Audio](https://github.com/HindsboNikolaj/Make-An-Audio) · CMU GenAI
-Fork of the ICML '23 text-to-audio diffusion model with edited transformer internals. Course project under CMU's AI Engineering program.
-
-### [GustGurus Drone Control](https://github.com/HindsboNikolaj/GustGurus-Drone-Project)
-Robust quadrotor control under simulated and experimental wind gusts. Advanced Control Systems Integration capstone.
-
-### [Graduate School Projects](https://github.com/HindsboNikolaj/Graduate-School-Projects)
-Selected coursework from CMU MSAIE. Vision/language modeling, LLM evaluation, on-device classification.
+See pinned repos below for the rest.
 
 ---
 
@@ -75,15 +67,6 @@ Selected coursework from CMU MSAIE. Vision/language modeling, LLM evaluation, on
 
 ---
 
-## Now
-
-I'm shipping PTZ camera agents (SCOPE was the first public output) and prototyping memory layers for long-running agent loops.
-
----
-
-## Activity
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HindsboNikolaj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=0EA5E9&icon_color=0EA5E9&text_color=E2E8F0" height="160" />
-  <img src="https://streak-stats.demolab.com?user=HindsboNikolaj&theme=tokyonight&hide_border=true&background=0F172A&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9" height="160" />
+  <img src="https://streak-stats.demolab.com?user=HindsboNikolaj&theme=tokyonight&hide_border=true&background=0F172A&ring=8338EC&fire=FF006E&currStreakLabel=3A86FF" height="160" />
 </p>
