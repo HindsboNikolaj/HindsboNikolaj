@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=AI+Engineer+%40+Armada;Multimodal+Agents+at+the+Edge;Sim-to-Real+Camera+Control+(PTZ);Time-Series+Forecasting+(SDWAN+%C2%B7+Starlink)&center=true&width=620&height=45&color=0EA5E9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?lines=AI+Engineer+%40+Armada;Multimodal+Agents+at+the+Edge;Sim-to-Real+Camera+Control+(PTZ);Evals+for+Vision-Language+Pipelines&center=true&width=620&height=45&color=0EA5E9" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -88,7 +88,7 @@ Selected coursework from CMU MSAIE. Vision/language modeling, LLM evaluation, on
 
 ## Now
 
-PTZ camera agents shipping at Armada. SDWAN and Starlink traffic forecasting on Azure Databricks. Memory layer prototypes for long-running agent loops.
+PTZ camera agents (see SCOPE). Time-series forecasting at scale. Memory layer prototypes for long-running agent loops.
 
 ---
 
