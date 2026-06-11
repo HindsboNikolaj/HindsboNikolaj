@@ -34,7 +34,3 @@ Engineering Mechanics at UW–Madison (BS 2023). AI Engineering at Carnegie Mell
 See pinned repos below for the rest.
 
 ---
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HindsboNikolaj&theme=tokyonight&hide_border=true&background=0F172A&ring=8338EC&fire=FF006E&currStreakLabel=3A86FF" height="160" />
-</p>
